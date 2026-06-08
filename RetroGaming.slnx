@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BLL/BLL.csproj" Id="237c96ed-8dad-4ac3-a6ec-580917625679" />
+  <Project Path="Common/Common.csproj" Id="db512eb8-d74f-410f-a364-7af71f886233" />
+  <Project Path="DAL/DAL.csproj" Id="0ed3db16-52c6-469e-a5ce-d9619fde123e" />
+  <Project Path="RetroGamingAPI/RetroGamingAPI.csproj" />
+</Solution>
