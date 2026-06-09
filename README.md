@@ -1,5 +1,7 @@
 # 🎮 RetroGaming Console App
 
+Assessment walkthrough recording - https://drive.google.com/file/d/1QtADAfdvUZNx4TgNWW8AewKzP0uv2lZb/view?usp=sharing
+
 A full-stack application for managing retro gaming consoles and manufacturers.
 
 ## ✅ Requirements Coverage
